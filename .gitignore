@@ -34,6 +34,7 @@
 *.exe
 *.out
 *.app
+.build/
 
 ### VisualStudioCode ###
 .vscode/
@@ -54,5 +55,8 @@
 # Ignore all local history of files
 .history
 .ionide
+
+## Deleted
+.fuse_hidden*
 
 # End of https://www.toptal.com/developers/gitignore/api/c++,visualstudiocode
